@@ -4,7 +4,7 @@ Proper annotation dataset structure of [COCO dataset](http://cocodataset.org/#ho
 
 You can download COCO dataset from this [link](http://cocodataset.org/#download).
 
-Annotation file like [2014 Train/Val annotations [241MB]](http://images.cocodataset.org/annotations/annotations_trainval2014.zip) have mainly three kind of files:
+Annotation file like [2014 Train/Val annotations](http://images.cocodataset.org/annotations/annotations_trainval2014.zip) have mainly three kind of files:
 
 * caption file
 * instance file
