@@ -1,6 +1,6 @@
 # Dataset format for COCO dataset
 
-Proper annotation dataset structure of [COCO dataset](http://cocodataset.org/#home) isnt availble in the [offical page](http://cocodataset.org/#format-data), thus I made tree-like structure to easily understand the annotation file before fiddling with the dataset.
+Proper annotation structure of [COCO dataset](http://cocodataset.org/#home) isnt availble in the [offical page](http://cocodataset.org/#format-data), thus I made tree-like structure to easily understand the annotation file before fiddling with the dataset.
 
 You can download COCO dataset from this [link](http://cocodataset.org/#download).
 
